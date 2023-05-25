@@ -22,11 +22,12 @@ sections:
       text: |-
         **I will supplement the content not mentioned in my resume here, and of course, you can also consider it as my journal of some trivial matters...**
         
+        
         **Here, I will also share some of my experiences, interesting stories, record the small achievements made by me and my team and so on.**
 
-        # **Easily build anything with blocks - no-code required!**
         
-        # From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        
+        **You can also use this webpage to jump to my other pages, such as poetries and experiences.**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
