@@ -27,8 +27,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programming # Computational Linguistics
+  - Life Sciences # Information Retrieval
+  - Embedded Development
+  - Other Interests...
 
 # Education to show in About widget
 education:
@@ -74,7 +76,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1412282531@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
