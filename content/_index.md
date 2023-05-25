@@ -22,11 +22,11 @@ sections:
       text: |-
         **I will supplement the content not mentioned in my resume here, and of course, you can also consider it as my journal of some trivial matters...**
         
-        
+        ** **
         **Here, I will also share some of my experiences, interesting stories, record the small achievements made by me and my team and so on.**
 
         
-        
+        ** **
         **You can also use this webpage to jump to my other pages, such as poetries and experiences.**
 
         <!--Custom spacing-->
@@ -48,18 +48,34 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Python
+          description: 85%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: EPL
+          description: 92%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: C
+          description: 70%
           icon: camera-retro
           icon_pack: fas
+        - name: Swim
+          description: 70%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Painting
+          description: 65%
+          icon: camera-retro
+          icon_pack: fas
+        - name: Versify
+          description: 70%
+          icon: camera-retro
+          icon_pack: fas
+        - name: See More
+          icon: camera-retro
+          icon_pack: fas
+          
   - block: experience
     content:
       title: Experience
