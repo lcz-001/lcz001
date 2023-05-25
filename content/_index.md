@@ -50,31 +50,31 @@ sections:
       items:
         - name: Python
           description: 85%
-          icon: r-project
-          icon_pack: fab
+          # icon: r-project
+          # icon_pack: fab
         - name: EPL
           description: 92%
-          icon: chart-line
-          icon_pack: fas
+          # icon: chart-line
+          # icon_pack: fas
         - name: C
           description: 70%
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
         - name: Swim
           description: 70%
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
         - name: Painting
           description: 65%
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
         - name: Versify
           description: 70%
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
         - name: See More
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
           
   - block: experience
     content:
