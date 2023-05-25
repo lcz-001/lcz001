@@ -21,7 +21,8 @@ sections:
           <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
         **I will supplement the content not mentioned in my resume here, and of course, you can also consider it as my journal of some trivial matters...**
-        **Here, I will also share some of my experiences, interesting stories, and record the small achievements made by me and my team.**
+        
+        **Here, I will also share some of my experiences, interesting stories, record the small achievements made by me and my team and so on.**
 
         # **Easily build anything with blocks - no-code required!**
         
