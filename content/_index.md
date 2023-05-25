@@ -72,6 +72,14 @@ sections:
           description: 70%
           # icon: camera-retro
           # icon_pack: fas
+        - name: Network Technique
+          description: 50%
+          # icon: camera-retro
+          # icon_pack: fas
+        - name: Eating
+          description: 100%
+          # icon: camera-retro
+          # icon_pack: fas
         - name: See More
           # icon: camera-retro
           # icon_pack: fas
