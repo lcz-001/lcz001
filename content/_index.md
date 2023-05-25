@@ -223,7 +223,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: My Poetry Collection # Featured Publications 我的诗集
       filters:
         folders:
           - publication
