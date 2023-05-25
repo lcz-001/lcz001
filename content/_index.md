@@ -116,7 +116,7 @@ sections:
           location: QuanZhou China
           date_start: '2022-10-14'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Organize and manage artificial intelligence homework clubs and impart experience to lower grade students, etc.
     design:
       columns: '2'
   - block: accomplishments
