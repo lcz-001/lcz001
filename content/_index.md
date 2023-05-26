@@ -164,7 +164,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2020-10-10'
-          description: Intellectual property rights that have been applied for or are currently being applied for (the homepage may not be updated in a timely manner, and the situation may lag)
+          description: Intellectual property rights that have been applied for or are currently being applied for. (the homepage may not be updated in a timely manner, and the situation may lag)
           organization: 林存智
           organization_url: https://www.edx.org
           title: 'Intellectual Property'
@@ -172,10 +172,18 @@ sections:
         - certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2020-10-10'
-          description: ''
+          description: Including various types of awards since my undergraduate studies, such as competitions.
           organization: 林存智
           organization_url: https://www.datacamp.com
           title: 'Awards'
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2020-10-10'
+          description: Perhaps you can see my other achievements here.
+          organization: 林存智
+          organization_url: https://www.coursera.org
+          title: 'Other Achievements'
           url: ''
     design:
       columns: '2'
