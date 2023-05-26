@@ -76,8 +76,8 @@ sections:
           description: 50%
           # icon: camera-retro
           # icon_pack: fas
-        - name: Eating
-          description: 100%
+        - name: Video Clips
+          description: 65%
           # icon: camera-retro
           # icon_pack: fas
         - name: See More
@@ -99,7 +99,7 @@ sections:
         - title: Leader of the AI Interest Group # CEO
           company: Our University
           company_url: ''
-          company_logo: org-x # gc
+          company_logo: TeamLeader02 # org-x  gc
           location: QuanZhou China
           date_start: '2021-05-01'
           date_end: ''
@@ -109,14 +109,35 @@ sections:
               * Organizing Competitions
               * Personnel Management
               * Transaction Processing
+        
+        - title: CAAI Individual Member # CEO
+          company: CAAI
+          company_url: https://www.caai.cn/index.php?s=/home/index/index/login/go.html&user_code=YTM1OW1CaUVuS0JvaGp2THRDZGREekVoVFVjdlR4ekoxcWRzYmFGVzVHMURwaHc=&ssaid=82210561148&ssn=13e138326107704e42543459d9491804
+          company_logo: CAAI_ICO # gc
+          location: China
+          date_start: '2021-05-03'
+          date_end: ''
+          description: Through Professor Wang's introduction, I have learned about and joined a personal member of the Chinese Association of Artificial Intelligence. Here, I can learn about the cutting-edge information of artificial intelligence in real-time and broaden my horizons.
+        
+        - title: A Poet On Chinese Poetry Network # CEO
+          company: 中国诗歌网
+          company_url: https://www.zgshige.com/c/2021-08-16/18874686.shtml
+          company_logo: 中国诗歌网_图标 # gc
+          location: China
+          date_start: '2021-08-13'
+          date_end: ''
+          description: 有幸认证成为中国诗歌网蓝V诗人，并在这诗人的家园中学习、分享，使我的精神生活更加丰富多彩。
+        
         - title: President of Artificial Intelligence
           company: Our University
           company_url: ''
-          company_logo: org-x
+          company_logo: TeamLeader02
           location: QuanZhou China
           date_start: '2022-10-14'
           date_end: ''
           description: Organize and manage artificial intelligence homework clubs and impart experience to lower grade students, etc.
+          
+          
     design:
       columns: '2'
   - block: accomplishments
