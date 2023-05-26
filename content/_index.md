@@ -215,11 +215,12 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      # subtitle: 'Learn More'
+      subtitle: 'Learn More'
+      appointment_url: 'https://calendly.com'
       # content:
       # cta_alt:
-      label: Show More
-      url: ''
+      # label: Show More
+      # url: ''
       # url: '' # 链接网页暂未确定
       text: |-
         {{< gallery album="demo" >}}
