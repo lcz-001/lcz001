@@ -155,27 +155,27 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2020-10-10'
           description: ''
-          organization: Coursera
+          organization: 林存智
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: 'My Papers'
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          date_start: '2020-10-10'
+          description: Intellectual property rights that have been applied for or are currently being applied for (the homepage may not be updated in a timely manner, and the situation may lag)
+          organization: 林存智
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: 'Intellectual Property'
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2020-10-10'
           description: ''
-          organization: DataCamp
+          organization: 林存智
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Awards'
           url: ''
     design:
       columns: '2'
