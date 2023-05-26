@@ -215,8 +215,12 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: 'Learn More'
-      url: '' # 链接网页暂未确定
+      # subtitle: 'Learn More'
+      # content:
+      cta_alt:
+        label: Show More
+        url: ''
+      # url: '' # 链接网页暂未确定
       text: |-
         {{< gallery album="demo" >}}
     design:
