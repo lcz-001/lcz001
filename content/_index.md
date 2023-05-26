@@ -217,9 +217,9 @@ sections:
       title: Gallery
       # subtitle: 'Learn More'
       # content:
-      cta_alt:
-        label: Show More
-          url: ''
+      # cta_alt:
+      label: Show More
+      url: ''
       # url: '' # 链接网页暂未确定
       text: |-
         {{< gallery album="demo" >}}
