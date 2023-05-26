@@ -99,7 +99,7 @@ sections:
         - title: Leader of the AI Interest Group # CEO
           company: Our University
           company_url: ''
-          company_logo: TeamLeader02 # org-x  gc
+          company_logo: TeamLeader02 # org-x gc
           location: QuanZhou China
           date_start: '2021-05-01'
           date_end: ''
