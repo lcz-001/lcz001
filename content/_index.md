@@ -215,7 +215,8 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: 'Learn More'
+      url: '' # 链接网页暂未确定
       text: |-
         {{< gallery album="demo" >}}
     design:
