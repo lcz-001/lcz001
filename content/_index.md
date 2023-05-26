@@ -215,8 +215,8 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: 'Learn More'
-      appointment_url: 'https://calendly.com'
+      subtitle: 'Show More'
+      url: 'https://calendly.com'
       # content:
       # cta_alt:
       # label: Show More
