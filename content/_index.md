@@ -219,7 +219,7 @@ sections:
       # content:
       cta_alt:
         label: Show More
-        url: ''
+          url: ''
       # url: '' # 链接网页暂未确定
       text: |-
         {{< gallery album="demo" >}}
