@@ -11,14 +11,16 @@ sections:
       image:
         filename: 太殷定稿-01.png # hero-academic.png
       cta:
-        label: '**Get Started**'
+        label: |-
+        '**自强不息**'
+        '**厚德载物**'
         url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
-      cta_note:
-        label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+      # cta_note:
+        # label: >-
+          # <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
         **I will supplement the content not mentioned in my resume here, and of course, you can also consider it as my journal of some trivial matters...**
         
