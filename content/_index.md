@@ -12,7 +12,7 @@ sections:
         filename: 太殷定稿-01.png # hero-academic.png
       cta:
         label: '**自强不息  厚德载物**'
-        url: ''
+        url: https://lincunzhi.netlify.app/
       # cta_alt:
       #  label: Ask a question
       #  url: https://discord.gg/z8wNYzb
