@@ -11,9 +11,8 @@ sections:
       image:
         filename: 太殷定稿-01.png # hero-academic.png
       cta:
-        label: |-
-        '**自强不息**'
-        '**厚德载物**'
+        label: '**自强不息  
+        厚德载物**'
         url: https://wowchemy.com/templates/
       cta_alt:
         label: Ask a question
