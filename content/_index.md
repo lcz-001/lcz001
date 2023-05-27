@@ -13,6 +13,7 @@ sections:
       cta:
         label: 
           '**自强不息**'
+        label:
           '**厚德载物**'
         #url: https://wowchemy.com/templates/
       # cta_alt:
