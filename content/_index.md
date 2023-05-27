@@ -28,6 +28,8 @@ sections:
         
         ** **
         **You can also use this webpage to jump to my other pages, such as poetries and experiences.**
+        ** **
+        **   自强不息 厚德载物   **
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
