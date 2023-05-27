@@ -29,7 +29,7 @@ sections:
         ** **
         **You can also use this webpage to jump to my other pages, such as poetries and experiences.**
         ** **
-        __自强不息 厚德载物__
+        __★ 自强不息 厚德载物 ★__
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
